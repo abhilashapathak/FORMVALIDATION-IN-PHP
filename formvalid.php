@@ -1,6 +1,6 @@
 <?php
 if($_POST){
-    //not EmptyIterator
+    //not Empty
     //atleast 6 characters long
      $errors=array();
      //start validation
